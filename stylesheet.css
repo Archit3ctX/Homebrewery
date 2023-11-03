@@ -4,8 +4,7 @@
 
 @font-face {
     font-family: 'zero_prime_semi-italicSIt';
-    src: url('zeroprimesemiitalic-3zozy-webfont.woff2') format('woff2'),
-         url('zeroprimesemiitalic-3zozy-webfont.woff') format('woff');
+    src: url('zeroprimesemiitalic-3zozy-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
